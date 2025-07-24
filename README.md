@@ -27,5 +27,7 @@ This mod was created using [ModTemplate](https://github.com/Arkhorse/TLD-Mod-Tem
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98cf2507-5621-4cda-8e1b-c4781099d29f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca4e1106-4f95-4f56-875c-92e64d7b64b1" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c769a15b-e8f1-4d2a-a023-e0161a66bdfa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47033f87-93d5-4bd6-a350-639d07ef936c" />
+
 
 

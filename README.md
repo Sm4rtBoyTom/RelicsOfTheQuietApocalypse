@@ -14,6 +14,12 @@ a video game developed by [Hinterland Games](https://hinterlandgames.com/).
 - #### Old Research Book textures!
 - #### Cut/Discontinued Textures for a few food items.
 
+### Known Issues
+- #### Unopened cans of food look the same as opened.
+- #### First person Matches texture is different.
+- #### Sometimes the texture isn't loaded correctly when entering a scene (usually can be fixed by re-entering scene/reloading save.
+
+  ### For troubleshooting and asistance please visit [[The Long Dark Modding Server](https://discord.com/invite/EhBWKRx)]
 
 ### Installation
 

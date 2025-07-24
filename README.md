@@ -1,3 +1,20 @@
 <img width="3840" height="2160" alt="Thumb_RetroTextures" src="https://github.com/user-attachments/assets/793b7b94-b547-404f-8e6e-6cd8aab7fede" />
 
 # Relics of the Quiet Apocalypse
+
+Relics of the Quiet Apocalypse is a mod for [The Long Dark](https://www.thelongdark.com),
+a video game developed by [Hinterland Games](https://hinterlandgames.com/).
+
+#### Relics of the Quiet Apocalypse mod brings back GearItem textures from the older builds of TLD. (Can be customized via ModSettings.)
+
+### Installation
+
+- **Install** [[ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/)] **and it's dependencies.**
+
+- **Drop the** **.dll** **file into your mods folder**.
+- **Enjoy**!
+
+This mod was created using [ModTemplate](https://github.com/Arkhorse/TLD-Mod-Template) By [TheIllusion](https://github.com/Arkhorse)
+
+
+

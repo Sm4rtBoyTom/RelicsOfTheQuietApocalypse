@@ -11,6 +11,9 @@ a video game developed by [Hinterland Games](https://hinterlandgames.com/).
 
 - #### Re-texture for some GearItems
 - #### Remastered Invenotory icons, now 512x512 res., previously 240x240
+- #### Old Research Book textures!
+- #### Cut/Discontinued Textures for a few food items.
+
 
 ### Installation
 

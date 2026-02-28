@@ -1,0 +1,8 @@
+C:\Users\smart\Desktop\UniversalTweaks-1.4.4\Source\obj\Debug\net6.0\UniversalTweaks.csproj.AssemblyReference.cache
+C:\Users\smart\Desktop\UniversalTweaks-1.4.4\Source\obj\Debug\net6.0\UniversalTweaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\Desktop\UniversalTweaks-1.4.4\Source\obj\Debug\net6.0\UniversalTweaks.csproj.CoreCompileInputs.cache
+C:\Users\smart\Desktop\UniversalTweaks-1.4.4\Source\bin\Debug\net6.0\UniversalTweaks.deps.json
+C:\Users\smart\Desktop\UniversalTweaks-1.4.4\Source\bin\Debug\net6.0\UniversalTweaks.dll
+C:\Users\smart\Desktop\UniversalTweaks-1.4.4\Source\obj\Debug\net6.0\UniversalTweaks.dll
+C:\Users\smart\Desktop\UniversalTweaks-1.4.4\Source\obj\Debug\net6.0\refint\UniversalTweaks.dll
+C:\Users\smart\Desktop\UniversalTweaks-1.4.4\Source\obj\Debug\net6.0\ref\UniversalTweaks.dll

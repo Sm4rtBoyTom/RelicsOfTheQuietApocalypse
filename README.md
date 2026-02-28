@@ -28,7 +28,7 @@ a video game developed by [Hinterland Games](https://hinterlandgames.com/).
 - **Drop the** **.dll** **file into your mods folder**.
 - **Enjoy**!
 
-- If you appreciate my work and want to support me, you can do so here. [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q31UDW4J)
+- **If you appreciate my work and want to support me, you can do so here.** [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q31UDW4J)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98cf2507-5621-4cda-8e1b-c4781099d29f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca4e1106-4f95-4f56-875c-92e64d7b64b1" />

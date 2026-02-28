@@ -1,8 +1,0 @@
-D:\Modding\RetroTextures\bin\Debug\net6.0\RetroTextures.deps.json
-D:\Modding\RetroTextures\bin\Debug\net6.0\RetroTextures.dll
-D:\Modding\RetroTextures\obj\Debug\net6.0\RetroTextures.csproj.AssemblyReference.cache
-D:\Modding\RetroTextures\obj\Debug\net6.0\RetroTextures.GeneratedMSBuildEditorConfig.editorconfig
-D:\Modding\RetroTextures\obj\Debug\net6.0\RetroTextures.csproj.CoreCompileInputs.cache
-D:\Modding\RetroTextures\obj\Debug\net6.0\RetroTextures.dll
-D:\Modding\RetroTextures\obj\Debug\net6.0\refint\RetroTextures.dll
-D:\Modding\RetroTextures\obj\Debug\net6.0\ref\RetroTextures.dll

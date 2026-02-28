@@ -23,12 +23,10 @@ a video game developed by [Hinterland Games](https://hinterlandgames.com/).
 
 ### Installation
 
-- **Install** [[ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/)] **and it's dependencies.**
+- **Install** [[ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/tag/v2.2.2)] **and it's dependencies.**
 
 - **Drop the** **.dll** **file into your mods folder**.
 - **Enjoy**!
-
-This mod was created using [ModTemplate](https://github.com/Arkhorse/TLD-Mod-Template) By [TheIllusion](https://github.com/Arkhorse)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98cf2507-5621-4cda-8e1b-c4781099d29f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca4e1106-4f95-4f56-875c-92e64d7b64b1" />

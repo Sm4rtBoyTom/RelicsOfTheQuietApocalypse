@@ -19,7 +19,7 @@ a video game developed by [Hinterland Games](https://hinterlandgames.com/).
 - #### First person Matches texture is different.
 - #### Sometimes the texture isn't loaded correctly when entering a scene (usually can be fixed by re-entering scene/reloading save.
 
-  ### For troubleshooting and asistance please visit [[The Long Dark Modding Server](https://discord.com/invite/EhBWKRx)]
+  ### For troubleshooting and assistance please visit [[The Long Dark Modding Server](https://discord.com/invite/EhBWKRx)]
 
 ### Installation
 

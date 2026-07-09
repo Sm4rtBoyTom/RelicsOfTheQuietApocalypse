@@ -10,18 +10,18 @@ a video game developed by [Hinterland Games](https://hinterlandgames.com/).
 ### Features
 
 - #### Re-texture for some GearItems
-- #### Remastered Invenotory icons, now 512x512 res., previously 240x240
+- #### Upscaled inventory icons, now 512x512 res. previously 240x240
 - #### Old Research Book textures!
 - #### Cut/Discontinued Textures for a few food items.
 
-### Known Issues
+### Known Quirks
 - #### First person Matches texture is different.
 
-  ### For troubleshooting and assistance please visit [[The Long Dark Modding Server](https://discord.com/invite/EhBWKRx)]
+  ### For troubleshooting and assistance please visit [The Long Dark Modding Server](https://discord.com/invite/EhBWKRx)
 
 ### Installation
 
-- **Install** [[ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/tag/v2.2.2)] **and it's dependencies.**
+- **Install** [ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/tag/v2.2.2) **and it's dependencies.**
 
 - **Drop the** **.dll** **file into your mods folder**.
 - **Enjoy**!
